@@ -1,4 +1,4 @@
-### Postdoc1-TARA
+### TARA Oceans  Zooplankton imaging (Zooscan) dataset
 R scripts developed for analyzing the zooplankton imaging dataset of Tara Oceans during my first (and short) postdoctoral contract at UMR7093-LOV.
 
 Here, I deposit the main scripts developed during my contract (2017) and used to collect, curate, prepare, model and analyze data under the R coding environment.
