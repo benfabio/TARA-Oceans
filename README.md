@@ -4,4 +4,4 @@ R scripts for analyzing the zooplankton imaging dataset of Tara Oceans during my
 Here, I deposit the main scripts developed during my contract (2017) and used to curate, prepare, model and analyze various types of data under the R coding environment.
 I selected the R scripts that are key to reproduce the results published in Brandāo, M., Benedetti, F., et al. (2021), available at: https://www.nature.com/articles/s41598-021-94615-5 
 
-I must acknowledge some of the R scripts are not commented in the most detailed fashion yet. Please feel free to contact me at: fabio.benedetti@usys.ethz.ch or fabio.benedetti24@gmail.com if you need further information.
+I acknowledge these R scripts are not commented in the most detailed fashion. I did not know how to use Git and GitHub backed then. Feel free to contact me at: fabio.benedetti@usys.ethz.ch or fabio.benedetti@unibe.ch if you need further information.
